@@ -2,7 +2,7 @@ import requests
 import time
 import random
 
-bj = 'KQDZE'  # 邀请码 7HTBZ     KQDZE（我的）
+bj = 'KQDZE'  # 邀请码
 
 times = 12 # 邀请的人数，建议不要太多
 
